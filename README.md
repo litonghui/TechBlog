@@ -8,3 +8,15 @@
 [Application](https://github.com/litonghui/Android-/wiki/Application)
 
 [Bugly 第三方质量跟踪平台](https://github.com/litonghui/Android-/wiki/Bugly-%E7%AC%AC%E4%B8%89%E6%96%B9%E8%B4%A8%E9%87%8F%E8%B7%9F%E8%B8%AA%E5%B9%B3%E5%8F%B0)
+
+[EditText 监听事件](https://github.com/litonghui/Android-/wiki/EditText-%E7%9B%91%E5%90%AC%E4%BA%8B%E4%BB%B6)
+
+[FrameLayout](https://github.com/litonghui/Android-/wiki/FrameLayout)
+
+[GPU](https://github.com/litonghui/Android-/wiki/GPU)
+
+[JNI开发技巧](https://github.com/litonghui/Android-/wiki/JNI%E5%BC%80%E5%8F%91%E6%8A%80%E5%B7%A7)
+
+[OAuth](https://github.com/litonghui/Android-/wiki/OAuth)
+
+[PagerAdapter](https://github.com/litonghui/Android-/wiki/PagerAdapter)
