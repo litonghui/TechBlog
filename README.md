@@ -22,3 +22,5 @@
 [PagerAdapter](https://github.com/litonghui/Android-/wiki/PagerAdapter)
 
 [Butter Knife](https://github.com/litonghui/Android-/wiki/Butter-Knife)
+
+[Android Clean](https://github.com/litonghui/Android-/wiki/Android-Clean)
