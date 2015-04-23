@@ -24,3 +24,5 @@
 [Butter Knife](https://github.com/litonghui/Android-/wiki/Butter-Knife)
 
 [Android Clean](https://github.com/litonghui/Android-/wiki/Android-Clean)
+
+[Application--meta-data](https://github.com/litonghui/Android-/wiki/Application--meta-data)
