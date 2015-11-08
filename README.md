@@ -26,3 +26,4 @@
 [Android Clean](https://github.com/litonghui/Android-/wiki/Android-Clean)
 
 [Application--meta-data](https://github.com/litonghui/Android-/wiki/Application--meta-data)
+[Android-6.0-Permission](https://github.com/litonghui/Android-/wiki/Android-6.0-Permission)
