@@ -20,7 +20,7 @@
 [Android-Camera](https://github.com/litonghui/TechBlog/wiki/Android-Camera)、
 [Android-Identifier--Analyze](https://github.com/litonghui/TechBlog/wiki/Android-Identifier--Analyze)、
 [Normal-Crash](https://github.com/litonghui/TechBlog/wiki/Normal-Crash)、
-[Take-care-of-Glide](https://github.com/litonghui/TechBlog/wiki/Take-care-of-Glide)、[Android-View-Background](https://github.com/litonghui/TechBlog/wiki/Android-View-Background)、[Anroid-Network-Change](https://github.com/litonghui/TechBlog/wiki/Anroid-Network-Change)、[Umeng-Push](https://github.com/litonghui/TechBlog/wiki/Umeng-Push)
+[Take-care-of-Glide](https://github.com/litonghui/TechBlog/wiki/Take-care-of-Glide)、[Android-View-Background](https://github.com/litonghui/TechBlog/wiki/Android-View-Background)、[Anroid-Network-Change](https://github.com/litonghui/TechBlog/wiki/Anroid-Network-Change)、[Umeng-Push](https://github.com/litonghui/TechBlog/wiki/Umeng-Push)、[Android-N 特性](https://github.com/litonghui/TechBlog/wiki/Android-N-%E6%96%87%E4%BB%B6%E5%88%86%E4%BA%AB)
 ### 基于客户端HTML5 + WebView
 [Android中WebView](https://github.com/litonghui/TechBlog/wiki/Android%E4%B8%ADWebView)、[WebView 漏洞分析](https://github.com/litonghui/TechBlog/wiki/WebView-%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90)、[Notice-WebView](https://github.com/litonghui/TechBlog/wiki/Notice-WebView)、[WebView-Debug](https://github.com/litonghui/TechBlog/wiki/WebView-Debug)、[WebView-Video Play](https://github.com/litonghui/TechBlog/wiki/WebView-Video-Play)、[WebView-Gif](https://github.com/litonghui/TechBlog/wiki/WebView-Gif)
 ### Java 开发技术
