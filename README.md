@@ -35,3 +35,5 @@
 [Application System(User) Apps](https://github.com/litonghui/TechBlog/wiki/Android-%E5%A4%96%E6%96%87%E7%BF%BB%E8%AF%91%EF%BC%9AApplication%E3%80%81System(User)-Apps)、[Android-Architecture](https://github.com/litonghui/TechBlog/wiki/Android-Architecture)
 ### 编码规范
 [Android-开发编码规范](https://github.com/litonghui/TechBlog/wiki/Android-%E5%BC%80%E5%8F%91%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
+### 服务器开发
+[nginx 配置](https://github.com/litonghui/TechBlog/wiki/Nginx-%E9%85%8D%E7%BD%AE%E6%91%98%E8%AE%B0)
