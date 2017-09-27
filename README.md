@@ -16,4 +16,4 @@
 [Android-开发编码规范](https://github.com/litonghui/TechBlog/wiki/Android-%E5%BC%80%E5%8F%91%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
 ### 服务器开发
 [nginx 配置](https://github.com/litonghui/TechBlog/wiki/Nginx-%E9%85%8D%E7%BD%AE%E6%91%98%E8%AE%B0)、[Jenkins 开发摘要](https://github.com/litonghui/TechBlog/wiki/Jenkins-%E5%BC%80%E5%8F%91%E6%91%98%E8%A6%81)
-### [算法数据结构]([https://github.com/litonghui/TechBlog/wiki/%E7%AE%97%E6%B3%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+### [算法数据结构](https://github.com/litonghui/TechBlog/wiki/%E7%AE%97%E6%B3%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
