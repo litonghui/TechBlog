@@ -1,8 +1,8 @@
 # TechBlog
 不积跬步，无以至千里；不积小流，无以成江海。
 整理一下平时的技术问题，自己挖过的坑和填过别人的坑，希望有所帮助！！！
-### [Android-TechBlog](https://github.com/litonghui/TechBlog/wiki/Android-TechBlog)
-### [Java 开发技术](https://github.com/litonghui/TechBlog/wiki/Java-TechBlog)
+### [Android-TechBlog](https://github.com/litonghui/TechBlog/wiki/Android-TechBlog) 
+### [Java TechBlog](https://github.com/litonghui/TechBlog/wiki/Java-TechBlog)
 
 ### 数据库
 [MongoDB](https://github.com/litonghui/TechBlog/wiki/MongoDB-%E6%93%8D%E4%BD%9C)、
